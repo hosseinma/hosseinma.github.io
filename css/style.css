@@ -5,7 +5,7 @@
     padding-bottom: 210px;
 }
 a.navbar-brand img{
-    width: 80px;
+    width: 60px;
     border-radius: 100%;
     background-color: #87b9ac;
     position: relative;
@@ -48,7 +48,7 @@ a.navbar-brand img{
     font-weight: 700;
     color: #87b9ac;
 }
-.me p{ 
+.me p{
     font-family: 'Source Sans Pro', sans-serif;
     color: #7f8f8a;
     width: 50%;
@@ -65,7 +65,7 @@ div.me{
 .skills h2{
     padding-bottom: 80px;
     font-family: "Montserrat";
-    font-weight: 700; 
+    font-weight: 700;
     color: #87b9ac;
 }
 .skills h3{
@@ -95,7 +95,7 @@ div.me{
 .get-in-touch h2{
     padding-bottom: 80px;
     font-family: "Montserrat";
-    font-weight: 700; 
+    font-weight: 700;
     color: #545454;
 }
 .get-in-touch h3{
@@ -122,6 +122,5 @@ footer{
     .img-container{
         display: none;
     }
-    
-}
 
+}

@@ -1,0 +1,131 @@
+/* title stylesheets */
+.title{
+    background-color: #e0ebe8;
+    padding-top: 20px;
+    padding-bottom: 210px;
+}
+a.navbar-brand img{
+    width: 80px;
+    border-radius: 100%;
+    background-color: #87b9ac;
+    position: relative;
+    left: 7px;
+}
+.navbar{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.navbar ul li a{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.4rem;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #545454;
+}
+.img-container{
+    text-align: center;
+    position: relative;
+    top: 210px;
+}
+.title h2{
+    font-family: 'Pacifico', cursive;
+    color: #545454;
+    font-size: 4.5rem;
+    margin-top: 200px;
+}
+.title p{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #545454;
+}
+.middle-container{
+    padding-top: 50px;
+}
+.middle-container img.my-pic{
+    width: 120px;
+    border-radius: 100%;
+    background-color: #e0ebe8;
+    margin-bottom: 20px;
+}
+.me h3{
+    font-family: "montserrat";
+    font-weight: 700;
+    color: #87b9ac;
+}
+.me p{ 
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #7f8f8a;
+    width: 50%;
+    margin: 0 auto;
+}
+div.me{
+    padding-bottom: 100px;
+    text-align: center;
+}
+.skills{
+    text-align: center;
+    padding: 50px 0;
+}
+.skills h2{
+    padding-bottom: 80px;
+    font-family: "Montserrat";
+    font-weight: 700; 
+    color: #87b9ac;
+}
+.skills h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 1.4rem;
+    color: #87b9ac;
+
+}
+.skills p{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #7f8f8a;
+    width: 50%;
+    margin: 20px auto;
+
+}
+.skills img{
+    width: 90px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+.get-in-touch{
+    text-align: center;
+    background-color:#b5c9c3;
+    padding: 70px 0 70px 0 ;
+}
+.get-in-touch h2{
+    padding-bottom: 80px;
+    font-family: "Montserrat";
+    font-weight: 700; 
+    color: #545454;
+}
+.get-in-touch h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 1.4rem;
+    color: #545454;
+}
+.get-in-touch p{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #7e7e7e;
+    width: 50%;
+    margin: 30px auto;
+
+
+}
+footer{
+    padding-top:50px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #7e7e7e;
+}
+@media(max-width: 998px){
+    .img-container{
+        display: none;
+    }
+
+  
+}
+

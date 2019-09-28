@@ -5,7 +5,7 @@
     padding-bottom: 210px;
 }
 a.navbar-brand img{
-    width: 60px;
+    width: 80px;
     border-radius: 100%;
     background-color: #87b9ac;
     position: relative;
@@ -121,6 +121,9 @@ footer{
 @media(max-width: 998px){
     .img-container{
         display: none;
+    }
+    a.navbar-brand img{
+      width: 50px;
     }
 
 }

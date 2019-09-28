@@ -11,10 +11,7 @@ a.navbar-brand img{
     position: relative;
     left: 7px;
 }
-.navbar{
-    margin-left: 80px;
-    margin-right: 80px;
-}
+
 .navbar ul li a{
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 1.4rem;

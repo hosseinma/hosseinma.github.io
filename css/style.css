@@ -125,10 +125,6 @@ footer{
     .img-container{
         display: none;
     }
-    .navbar ul li{
-        display: flex;
-        flex-direction: row;
-    }
-  
+    
 }
 

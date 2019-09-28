@@ -125,6 +125,9 @@ footer{
     .img-container{
         display: none;
     }
+    a.navbar-brand img{
+        margin-right: 100px;
+    }
 
   
 }
